@@ -1,4 +1,4 @@
-# Data Analysis using SQL
+# Data Analysis Using SQL
 
 Calculate the total sales as a decimal with 2 decimal places.
 ```
